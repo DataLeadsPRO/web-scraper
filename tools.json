@@ -1,0 +1,26 @@
+[
+  {
+    "name": "fetch",
+    "method": "POST",
+    "path": "/fetch",
+    "description": "V1 Fetch"
+  },
+  {
+    "name": "web_crawl",
+    "method": "POST",
+    "path": "/web/crawl",
+    "description": "V1 Web Crawl"
+  },
+  {
+    "name": "browse",
+    "method": "POST",
+    "path": "/browse",
+    "description": "V1 Browse"
+  },
+  {
+    "name": "captcha_solve",
+    "method": "POST",
+    "path": "/captcha/solve",
+    "description": "V1 Captcha Solve"
+  }
+]
