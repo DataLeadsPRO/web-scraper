@@ -1,5 +1,5 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.json",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.DataLeadsPRO/web-scraper",
   "description": "Fetch, crawl, and browse protected pages with anti-bot handling - renders in a real browser and returns clean JSON or markdown.",
   "version": "1.0.0",
